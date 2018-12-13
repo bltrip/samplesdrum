@@ -8,22 +8,6 @@
   "type": "Drum machine",
   "samples": "https://bltrip.github.io/samplesdrum/DM/MRK-2/samples/",
   "files": [
-    "clap-1.wav",
-    "clap-2.wav",
-    "clap-3.wav",
-    "snare-1.wav",
-    "snare-2.wav",
-    "snare-3.wav",
-    "kick-1.wav",
-    "kick-2.wav",
-    "kick-3.wav",
-    "shakers-1.wav",
-    "shakers-2.wav",
-    "shakers-3.wav",
-    "hits-1.wav",
-    "hits-2.wav",
-    "hits-3.wav",
-    "hats-1.wav",
-    "hats-2.wav"
+    "clap-1.wav"
   ]
 }
