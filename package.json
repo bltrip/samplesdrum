@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.2",
   "description": "Tools to build sampled site",
-  "repository": "https://github.com/oramics/sampled/",
+  "repository": "https://bltrip.github.io/samplesdrum/",
   "scripts": {
     "build": "node build/index.js"
   },
@@ -22,7 +22,7 @@
   "author": "danigb <danigb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oramics/sampled/issues"
+    "url": "https://bltrip.github.io/samplesdrum/issues"
   },
   "devDependencies": {
     "metalsmith": "^2.3.0",
