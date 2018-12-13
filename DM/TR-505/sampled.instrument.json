@@ -3,9 +3,9 @@
   "source": "http://www.progsounds.com/downloads/progsounds-roland-tr-505-samples-pack",
   "license": "Public Domain",
   "name": "TR-505",
-  "url": "https://oramics.github.io/sampled/DM/TR-505/",
+  "url": "https://bltrip.github.io/samplesdrum/DM/TR-505/",
   "type": "Drum machine",
-  "samples": "https://oramics.github.io/sampled/DM/TR-505/samples/",
+  "samples": "https://bltrip.github.io/samplesdrum/DM/TR-505/samples/",
   "files": [
     "tr505-clap.wav",
     "tr505-conga-h.wav",
