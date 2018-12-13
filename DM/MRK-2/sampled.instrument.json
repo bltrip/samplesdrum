@@ -8,15 +8,6 @@
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/MRK-2/samples/",
   "files": [
-    "block.wav",
-    "bongo.wav",
-    "clave.wav",
-    "cymball-long.wav",
-    "cymball-short.wav",
-    "hihat-closed.wav",
-    "hihat-open.wav",
-    "kick.wav",
-    "snare.wav",
-    "tom.wav"
+    "clapt.wav"
   ]
 }
