@@ -8,6 +8,7 @@
   "type": "Drum machine",
   "samples": "https://bltrip.github.io/samplesdrum/DM/MRK-2/samples/",
   "files": [
-    "clap-1.wav"
+    "clap-1.wav",
+    "clap-2.wav"
   ]
 }
