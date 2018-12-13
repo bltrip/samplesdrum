@@ -26,7 +26,7 @@ module.exports = function (repo) {
 
 const README =
 `
-[Sampled](https://oramics.github.io/sampled) /
+[Sampled](https://bltrip.github.io/samplesdrum/) /
 [{{meta.type}}]({{BASE}}/{{group}})
 
 # {{meta.name}}
