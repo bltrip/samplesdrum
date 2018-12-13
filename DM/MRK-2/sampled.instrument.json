@@ -4,19 +4,11 @@
   "source": "http://www.submodern.com/slowburn/?p=736",
   "license": "Public Domain",
   "name": "MRK-2",
-  "url": "https://oramics.github.io/sampled/DM/MRK-2/",
+  "url": "https://bltrip.github.io/samplesdrum/DM/MRK-2/",
   "type": "Drum machine",
-  "samples": "https://oramics.github.io/sampled/DM/MRK-2/samples/",
+  "samples": "https://bltrip.github.io/samplesdrum/DM/MRK-2/samples/",
   "files": [
-    "block.wav",
-    "bongo.wav",
-    "clave.wav",
-    "cymball-long.wav",
-    "cymball-short.wav",
-    "hihat-closed.wav",
-    "hihat-open.wav",
-    "kick.wav",
-    "snare.wav",
-    "tom.wav"
+    "clapt.wav",
+
   ]
 }
