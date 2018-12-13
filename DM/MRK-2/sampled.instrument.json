@@ -9,6 +9,9 @@
   "samples": "https://bltrip.github.io/samplesdrum/DM/MRK-2/samples/",
   "files": [
     "clap-1.wav",
-    "clap4.wav"   
+   "clap5.wav",
+    "kick-1.wav",
+    "kick4.wav",
+    "kick5.wav",
   ]
 }
